@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rulers
 
 FIXME: Write a gem description
@@ -27,3 +28,9 @@ FIXME: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+rulers
+======
+
+recreating rails to learn rails
+>>>>>>> d5fb6c6f78b80cd583d282664e5001f0cfe3a751
