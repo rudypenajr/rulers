@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Rulers
 
 FIXME: Write a gem description
@@ -33,4 +33,4 @@ rulers
 ======
 
 recreating rails to learn rails
->>>>>>> d5fb6c6f78b80cd583d282664e5001f0cfe3a751
+
