@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Rulers::VERSION
   gem.authors       = ["Rudy Pena"]
   gem.email         = ["rudypenajr@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Learning how Rails works through recreating it with a gem called Rulers}
+  gem.summary       = %q{Learning how Rails works through recreating it with a gem called Rulers}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
